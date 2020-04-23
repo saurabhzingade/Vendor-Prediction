@@ -24,5 +24,5 @@ Pizza,Burger,Non Veg Thali,Veg Thali,Dosa,Sandwich,Pav Bhaji,Misal,idli,kichdi
 Raw_materials that are considered are :
 Tomato,onion,capsicum,bread,dough,chicken,cheese,corn,rava,sabudana,masala,vegetables,dal,flour,rice,papad,butter
 
-You can connect to me on LinkedIn too
+You can connect to me on my LinkedIn too
 profile URL:https://www.linkedin.com/in/saurabhzingade/
