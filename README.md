@@ -26,3 +26,6 @@ Tomato,onion,capsicum,bread,dough,chicken,cheese,corn,rava,sabudana,masala,veget
 
 You can connect to me on my LinkedIn too
 profile URL:https://www.linkedin.com/in/saurabhzingade/
+
+PLEASE NOTE : The data is created using the random function and is not reliable.
+However you can use similar method for working with real time data of similar type.
